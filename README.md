@@ -1,2 +1,2 @@
-# LD1
-Pirmas laboratorinis darbas
+# lab1.ca
+bartnykas.ca
