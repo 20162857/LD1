@@ -1,5 +1,5 @@
--- File: xor.vhd
--- Compiled by: Edgar Kalinovski ETf-16“.
+--1LD pakeitimas
+
 library ieee;
 use ieee.std_logic_1164.all;
 
@@ -15,8 +15,3 @@ architecture xor_arc of xor is
 begin
 o_f <= i_a xor i_b;
 end xor_arc;
-
-
--- Pirmas Laboratorinis darbas
-
---Padarytas pakeitimas
